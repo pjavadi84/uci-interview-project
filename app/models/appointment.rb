@@ -1,0 +1,3 @@
+class FacultyAppointment < ApplicationRecord
+    
+end
